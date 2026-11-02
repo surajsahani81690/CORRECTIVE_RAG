@@ -1,0 +1,28 @@
+# Core framework
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LLM providers
+langchain-groq
+langchain-google-genai
+
+# Embeddings + vector store
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+
+# Document loading
+pypdf
+
+# Web search (Corrective RAG fallback)
+tavily-python
+
+# Utilities
+python-dotenv
+pydantic>=2.0
+
+# Notebook / "# %%" cell execution (VS Code / Jupyter)
+ipykernel
